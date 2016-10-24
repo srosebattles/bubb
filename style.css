@@ -1,0 +1,184 @@
+/** {
+    outline: 3px red solid;
+  }*/
+
+  *{box-sizing: border-box;
+  }
+
+.top {
+  display: inline-block;
+}
+
+.logo {
+  display: inline-block;
+}
+  header {
+    width:100%;
+    height: auto;
+    position: relative;
+    float: left;
+    vertical-align: baseline;
+    border-bottom: 1px solid #EEE;
+    padding: 42px, 0;
+  }
+
+  ul {
+    list-style: none;
+    text-decoration: none;
+  }
+
+  li {
+    display: inline-block;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  a.try {
+    text-decoration: none;
+    border-bottom: 4px solid #EEE;
+  }
+
+  .contactright {
+    display: inline;
+    float: right;
+    text-align:right;
+    padding-left: 100%;
+  }
+
+  .firstmail {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+  }
+
+  .content {
+
+  }
+
+  .nosheart{
+    max-width: 30%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .bulbasaur {
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .squirtle {
+    font-size: 60px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .charmander {
+    font-size: 24px;
+    color: darkgray;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .productbreakout {
+    display: inline-block;
+    padding-top: 80px;
+    width: 100%;
+  }
+
+  .graybox {
+    display: inline-block;
+    width: 25%;
+    height: 200px;
+    border: 1px solid #e6e6e6;
+    border-top: 5px solid #5995A2;
+    float: left;
+
+  }
+
+  .bluebox {
+    display: inline-block;
+    width: 25%;
+    height: 200px;
+    border: 1px solid #e6e6e6;
+    border-top: 5px solid #3DAFCA;
+    float: left;
+
+  }
+
+  .projectos {
+
+  }
+
+  .ostudio {
+
+  }
+
+  .bigslideshow {
+
+  }
+
+.littleslideshow {
+  display:block;
+  height: 300px;
+  overflow-x: scroll;
+}
+
+.clientes {
+
+}
+
+.testimonies {
+
+}
+
+.contato {
+  background-color: #F5F5F5;
+  text-align: center;
+}
+
+.formtitle {
+  text-align: center;
+  font-size: 40px;
+}
+
+.entry {
+  width: 50%;
+  float: left;
+}
+
+.entrywide {
+  width: 100%
+  text-align:center;
+  float: none;
+}
+
+footer {
+  text-align: center;
+  color: #FFF;
+  background-color: #5D6875;
+}
+
+.holderfooter {
+  display: inline-block;
+  color: #FFF;
+  background-color: #5D6875;
+}
+.col {
+  display: inline-block;
+  color: #FFF;
+  background-color: #5D6875;
+  vertical-align: top;
+  text-align: justify;
+}
+
+a.lastmail {
+  text-decoration: none;
+  color: #FFF;
+}
